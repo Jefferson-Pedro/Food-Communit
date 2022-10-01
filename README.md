@@ -1,2 +1,2 @@
-# Projeto-Ifood-com-Java
+# Projeto Food-Communit
  Projeto desenvolvido em parceria com a DIO
