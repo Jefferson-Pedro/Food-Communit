@@ -1,6 +1,8 @@
 package com.api.ecommerce.model;
 
 import java.util.List;
+import java.util.Optional;
+
 import javax.persistence.*;
 
 import com.api.ecommerce.enumeration.FormaPagamento;
@@ -10,7 +12,9 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 @AllArgsConstructor //Construtor c/ parametros
 @NoArgsConstructor	//Construtor s/ parametros
@@ -37,6 +41,7 @@ public class Sacola {
 	@Enumerated
 	private FormaPagamento formaPagamento;
 	private boolean fechada;
+	
 	
 		
 }
