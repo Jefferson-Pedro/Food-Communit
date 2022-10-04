@@ -1,0 +1,95 @@
+{
+	"info": {
+		"_postman_id": "53ec8235-c50d-49c0-9900-ae0d0f6aada5",
+		"name": "Food Community",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22990886"
+	},
+	"item": [
+		{
+			"name": "Ver Sacola",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/ifood-community/sacolas/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ifood-community",
+						"sacolas",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fechar Sacola",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/ifood-community/sacolas/fecharSacola/1?formaPagamento=0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ifood-community",
+						"sacolas",
+						"fecharSacola",
+						"1"
+					],
+					"query": [
+						{
+							"key": "formaPagamento",
+							"value": "0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Incluir Itens na Sacola",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"idProduto\" : 2,\r\n\t\"quantidade\" : 2,\r\n\t\"idSacola\" : 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/ifood-community/sacolas/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ifood-community",
+						"sacolas",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -57,8 +57,21 @@ public class SacolaServiceImpl implements SacolaService {
 						+ "Encerre ou limpe o seu pedido!");
 			}			
 		}
+		
+		List<Double> valorDosItens = new ArrayList<>();
+		for(Item itemDaSacola: itensDaSacola) {
+			double valorTotalItem = itemDaSacola.getProduto().getValorUnitario() * itemDaSacola.getQuantidade();
+			valorDosItens.add(valorTotalItem);
+		}
+		
+		double valorTotalSacola = valorDosItens.stream()
+		.mapToDouble(valorTotalDeCadaItem -> valorTotalDeCadaItem)
+		.sum();
+		
+		sacola.setValorTotal(valorTotalSacola);		
 		sacolaRepository.save(sacola);	
-		return itemrepository.save(itemParaInserir);
+		//return itemrepository.save(itemParaInserir);
+		return itemParaInserir;
 	}
 
 	@Override

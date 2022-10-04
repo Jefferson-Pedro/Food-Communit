@@ -42,7 +42,4 @@ public class SacolaResource {
 		
 		return sacolaService.fecharSacola(idSacola, formaPagamento);
 	}
-	
-	
-
 }
