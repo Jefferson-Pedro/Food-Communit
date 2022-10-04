@@ -21,7 +21,7 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class SacolaResource {
 	
-	private final SacolaService sacolaService = null;
+	private final SacolaService sacolaService;
 	
 	// Inserir um item na sacola
 	@PostMapping

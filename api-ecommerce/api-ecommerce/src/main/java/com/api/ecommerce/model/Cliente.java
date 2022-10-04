@@ -14,7 +14,6 @@ import lombok.NoArgsConstructor;
 @Data				//Trás os Gets e Sets, Equals e Hashmaps
 @Builder
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
-@Embeddable
 @Entity
 public class Cliente {
 	@Id

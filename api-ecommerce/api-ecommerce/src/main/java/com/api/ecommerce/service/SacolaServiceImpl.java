@@ -23,7 +23,7 @@ public class SacolaServiceImpl implements SacolaService {
 	private final SacolaRepository sacolaRepository;
 	private final ProdutoRepository produtoRepository;
 	private final ItemRepository itemrepository;
-	private Sacola sacola = null;
+	private Sacola sacola;
 	
 	
 	@Override

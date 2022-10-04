@@ -15,7 +15,6 @@ import lombok.NoArgsConstructor;
 @Data				//Trás os Gets e Sets, Equals e Hashmaps
 @Builder
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
-@Embeddable
 @Entity
 public class Produto {
 	
@@ -23,7 +22,7 @@ public class Produto {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 	private String nome;
-	private Double valorUnitario;
+	private double valorUnitario;
 	
 	@Builder.Default
 	private Boolean disponivel = true;
