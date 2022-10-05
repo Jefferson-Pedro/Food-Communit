@@ -1,11 +1,5 @@
 <h1>Food Community</h1>
 <p> API para Servir uma Aplicação de Delivery</p>
-<p align="center">
-<a href="https://docs.google.com/presentation/d/1O_lCZFiuU9MOsot-pJv2lb7kKrRs4ykW/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 1</a> ♥ 
-<a href="https://docs.google.com/presentation/d/14JDFLaWvK6KL_9ZxubRoBciWQ_aVcxd4/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 2</a> ♥
-<a href="https://docs.google.com/presentation/d/11rOmP1u7nwYv5mL4ovmquYMZWktPwIiJ/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 3</a> ♥ 
-<a href="https://docs.google.com/presentation/d/162KrAjBivpN4GKzPVwv7y-JcIPUnN1_h/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 4</a>
-</p>
 
 <h3>Status do Projeto</h3>
 <p align="center"> Sacola API 💻 Em construção... </p>
@@ -34,7 +28,7 @@
 </tr>
 <tr>
 	<td>Maven</td>
-	<td>7.**</td>
+	<td>**</td>
 </tr>
 <tr>
 	<td>Postman</td>
@@ -45,13 +39,13 @@
 
 No Terminal/Console:
 <ol>
-	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la/sacola-api.git</code></li>
-	<li>Entre na pasta raiz do projeto: <code>cd sacola-api</code></li> 
-	<li>Rode o comando: <code>./gradlew bootrun</code></li>
+	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/Jefferson-Pedro/Food-Communit</code></li>
+	<li>Entre na pasta raiz do projeto: <code>cd Food-Communit</code></li> 
+	<li>Importe o projeto: Vá em File > Import > Maven > Existing Maven Projects > marcar o <code>pom.xml</code></li>
 	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
 </ol>
 
-<a href="https://drive.google.com/file/d/1-FTY7jRfYbqVNQi-B7Dvn8p6wjnzf2f6/view?usp=sharing"> 🚀 Collection Sacola API - Postman</a><br>
+<a href="https://github.com/Jefferson-Pedro/Food-Communit/blob/main/Food%20Community.postman_collection.json"> 🚀 Collection API-Ecommerce - Postman</a><br>
 
 <img src="https://i.imgur.com/UBHcWKt.png" alt="Sacola API Swagger UI">
 
@@ -90,15 +84,15 @@ No Terminal/Console:
 
 <h3>Autor</h3>
 
-<a href="https://www.linkedin.com/in/cami-la/">
+<a href="https://www.linkedin.com/in/jefferson-pedro-8a6264b9/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Camila Cavalcante</b></sub></a> <a href="https://www.instagram.com/camimi_la/" title="Instagram"></a>
 
-Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
+Feito com ❤️ por Jefferson Pedro 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=l1nq.com/73Lrj)](https://www.linkedin.com/in/cami-la/)
-[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
+ <a href="https://www.instagram.com/jefferson.pedro25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=l1nq.com/73Lrj)](https://www.linkedin.com/in/jefferson-pedro-8a6264b9/)
+[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:jeffersonpedro05@gmail.com)
 <hr>
 <h3>Contribuindo</h3>
 
