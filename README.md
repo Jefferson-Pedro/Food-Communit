@@ -28,7 +28,7 @@
 </tr>
 <tr>
 	<td>Maven</td>
-	<td>**</td>
+	<td>3.8.6</td>
 </tr>
 <tr>
 	<td>Postman</td>
@@ -90,14 +90,13 @@ No Terminal/Console:
 
 Feito com ❤️ por Jefferson Pedro 👋🏽 Entre em contato!
 
- <a href="https://www.instagram.com/jefferson.pedro25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=l1nq.com/73Lrj)](https://www.linkedin.com/in/jefferson-pedro-8a6264b9/)
-[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:jeffersonpedro05@gmail.com)
+<a href="https://www.instagram.com/jefferson.pedro25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:jeffersonpedro05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jefferson-pedro-8a6264b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <hr>
 <h3>Contribuindo</h3>
 
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar.
+Este repositório foi criado para fins de estudo, Inspirado no projeto <a href="https://github.com/cami-la/sacola-api_IFOOD_DEV_WEEK" target="_blank"> api_IFOOD_DEV_WEEK</a> <br>
 
 Se possível:
 
