@@ -23,6 +23,10 @@
 	<td>8+</td>
 </tr>
 <tr>
+	<td>Eclipse IDE</td>
+	<td>2022-09</td>
+</tr>
+<tr>
 	<td>Git</td>
 	<td>2.**</td>
 </tr>
@@ -41,13 +45,14 @@ No Terminal/Console:
 <ol>
 	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/Jefferson-Pedro/Food-Communit</code></li>
 	<li>Entre na pasta raiz do projeto: <code>cd Food-Communit</code></li> 
-	<li>Importe o projeto: Vá em File > Import > Maven > Existing Maven Projects > marcar o <code>pom.xml</code></li>
+	<li>Utilize o comando: <code>./mvn package</code></li> 
+	<li>ou você pode importar o projeto: Vá em File > Import > Maven > Existing Maven Projects > marcar o <code>pom.xml</code></li>
 	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
 </ol>
 
 <a href="https://github.com/Jefferson-Pedro/Food-Communit/blob/main/Food%20Community.postman_collection.json"> 🚀 Collection API-Ecommerce - Postman</a><br>
 
-<img src="https://i.imgur.com/UBHcWKt.png" alt="Sacola API Swagger UI">
+<img src="https://github.com/Jefferson-Pedro/Food-Communit/blob/main/Swagger.png" alt=" API Ecommerce Food Community - Swagger UI">
 
 <h3>Tecnologias Utilizadas</h3>
 
