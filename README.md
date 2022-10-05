@@ -1,4 +1,4 @@
-<h1>Food Community</h1>
+<h1> 🍕 Food Community</h1>
 <p> API para Servir uma Aplicação de Delivery</p>
 
 <h3>Status do Projeto</h3>
