@@ -2,7 +2,7 @@
 <p> API para Servir uma Aplicação de Delivery</p>
 
 <h3>Status do Projeto</h3>
-<p align="center"> Sacola API 💻 Em construção... </p>
+<p align="center"> API Ecommerce 💻 Em construção... </p>
 
 <h3>Features</h3>
 
