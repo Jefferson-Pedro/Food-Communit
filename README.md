@@ -93,7 +93,7 @@ No Terminal/Console:
  <img style="border-radius: 50%;" src="https://instagram.fcaw1-1.fna.fbcdn.net/v/t51.2885-19/174045253_1450802445260114_8761660112676779592_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fcaw1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=_sp_NTIyS9gAX8g9js2&edm=ABmJApABAAAA&ccb=7-5&oh=00_AT-9VV6aoZMGuDrwM3n0w6lJzZQZEWwU-ZwgpFj-mNHTWQ&oe=63449AD4&_nc_sid=6136e7" width="100px;" alt=""/>
  <br />
 
-Feito com ❤️ por Jefferson Pedro 👋🏽 Entre em contato!
+Feito com 💙 por Jefferson Pedro 👋🏽 Entre em contato!
 
 <a href="https://www.instagram.com/jefferson.pedro25" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jeffersonpedro05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
