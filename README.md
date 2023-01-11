@@ -9,7 +9,7 @@
 - [x] Incluir itens na sacola<br>
 - [x] Visualizar sacola<br>
 - [x] Fechar sacola<br>
-- [ ] Excluir item da sacola<br>
+- [ ] Excluir Sacola<br>
 
 <h3>Demostração da Aplicação</h3>
 <p>Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:</p>
